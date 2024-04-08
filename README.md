@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dylankawashiri
-- 👀 I’m interested in all things physics!
 - 📫 Email: dylan.kawashiri@ucla.edu
 
 <!---
