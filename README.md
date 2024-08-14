@@ -9,6 +9,9 @@ I am a highly motivated graduating physics major with a research interest in qua
 - Pasadena City College AS-T Physics, Mathematics '21
 - Pasadena City College AA-T Natural Sciences, Engineering and Technology '21
 
+### Experience
+Hudson Lab
+
 <!---
 dylankawashiri/dylankawashiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
