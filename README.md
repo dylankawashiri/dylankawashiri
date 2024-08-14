@@ -3,7 +3,7 @@
 
 ## About Me
 # Education
-- Univeresity of California, Los Angeles B.S. Physics '24
+- University of California, Los Angeles B.S. Physics '24
 - Pasadena City College AS-T Physics, Mathematics '21
 - Pasadena City College AA-T Natural Sciences, Engineering and Technology '21
 
